@@ -1,0 +1,11 @@
+MaskPhish is a simple tool used to mask phishing URLs
+
+How to Download MaskPhish:
+
+git clone https://github.com/rsdraju99/maskphish.git
+
+cd maskphish
+
+chmod +x maskphish.sh
+
+./maskphish.sh
